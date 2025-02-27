@@ -8,7 +8,7 @@
     pnpm add bcrypt-ts 
 </p>
 
-<h3>use swiperjs for swipeing animations</h3>
+<h3>use swiperjs for swipe animations</h3>
 <p>
     
     pnpm add swiper
@@ -33,7 +33,7 @@
     pnpm add next-auth
 </p>
 
-<h3>React-hook-forms library for forms & @hookform/resolvers & validating witj valibot </h3>
+<h3>React-hook-forms library for forms & @hookform/resolvers & validating with valibot </h3>
 <p>
     
     pnpm add @hookform/resolvers
